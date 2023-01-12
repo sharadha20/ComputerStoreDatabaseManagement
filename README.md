@@ -42,6 +42,7 @@ managing the Computer, Seller, Customer, Employee. It tracks all the
 details about the Employee,Departments,Company.
 
 1.5 SOFTWARE SPECIFICATIONS
+
 Operating System : WINDOWS 10
 Front – End : IDLE Python3.6
 Back - End : MYSQL 5.1
